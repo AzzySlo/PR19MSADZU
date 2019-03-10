@@ -11,7 +11,7 @@ Vprašanja in cilji
 3.	Iskanje ključnih genov pri rakavem obolenju pljučnega tkiva.
 4.	Iskanje genov, ki zmanjšajo njihovo izražanje – potencialno zdravljenje.
 Podatki
-Genski ekspresijski profili normalnih človeških tkiv, rakavih tkiv pluč (človeških in mišjih) pacientov in celičnih kultur. Podatki so zapisani v obliki prikazani v kot slika v wordu na spodnji povezavi.
+Genski ekspresijski profili normalnih človeških tkiv, rakavih tkiv pluč (človeških in mišjih) pacientov in celičnih kultur. Podatki so zapisani v obliki prikazani kot slika v wordu na spodnji povezavi.
 
 https://github.com/AzzySlo/PR19MSADZU/blob/master/Primerjava_genskih_ekspresijskih_profilov_pri_pljucnem_raku.docx
 
