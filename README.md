@@ -15,7 +15,7 @@ Organizem: Homo sapiens (Človek)
 
 Za analizo normalnih (zdravih) tkiv smo uporabili podatke iz baze podatkov Protein Atlas. Zbrane so tkivne ekspresije 37 človeških tkiv, vrednosti za vsak gen pa so povprečne vrednosti izražanja (enote TPM). Opisanih transkriptov je 19600. To so glavni podatki, ki jih uporabljamo za analizo genov, zato je večina opisanih metod izvedena na tem setu podatkov. [datoteka: rna_tissue.csv]
 
-Za analizo rakavega tkiva smo uporabili primerjavo genskih ekspresijskih profilov normalnega in rakavega tkiva pljuč posameznika po izrezu tkiva. Podatki za vsak gen so bili izraženi kot logaritem z osnovo 2 spremembe izražanja (〖log〗_2  (ekspresija v rakavem tkivu)/(ekspresija v normalnem tkivu)) in p-vrednost prejšnjega podatka. Podani so bili le geni, pri katerih p-vrednost ni presegala 1. [datoteka: Lung_cancer.csv]
+Za analizo rakavega tkiva smo uporabili primerjavo genskih ekspresijskih profilov normalnega in rakavega tkiva pljuč posameznika po izrezu tkiva. Podatki za vsak gen so bili izraženi kot logaritem z osnovo 2 spremembe izražanja (〖log〗_2  (ekspresija v rakavem tkivu)/(ekspresija v normalnem tkivu)) in p-vrednost prejšnjega podatka. Podani so bili le geni, pri katerih p-vrednost ni presegala 1. [datoteka: Lung_cancer.txt]
 
 Pri izražanju genov je pomembna tudi njihova medsebojna lokacija na kromosomu. Za analizo lokacij smo uporabili podatke o lokacijah genov na DNA. Ob izražanju enega gena, se lahko izraža sosednji gen kot posledica bližine na kromosomu. [datoteka: HumanChromoLocation.csv]
  
