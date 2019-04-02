@@ -64,7 +64,6 @@ Izračunane vrednosti so se izkazale za dobro oceno skupnega izražanja transkri
 ![alt text]( https://github.com/AzzySlo/PR19MSADZU/blob/master/ProjektSlike/slika4.png)
 
 Slika4: Primerjava tkivne ekspresije glede dvojice transkriptov AASS in ZNF296 za 15 tkiv.
-
  
   ####  4.	Analiza povezav med položajem na kromosomu in skupno ekspresijo
 Podatke o položajih smo pretvorili v dostopne podatke za izvajanje analiz. Pripravili smo funkcije, ki povejo razdalje med geni in medsebojno lokacijo.
